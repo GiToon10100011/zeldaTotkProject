@@ -12,11 +12,18 @@
 - **개발자**: 전진우
 - **배포 주소**: [https://zeldatotkfullpage.web.app](https://zeldatotkfullpage.web.app)
 
-## 🛠️ 사용 기술
+### 기술 스택
 
-- **HTML5 / CSS3 / JavaScript**
-- **jQuery** - DOM 조작 및 이벤트 처리
-- **SCSS** - 스타일 전처리기
+#### 프론트엔드
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css-modules&logoColor=white)
+
+#### 배포
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 - **라이브러리**:
   - **fullpage.js** - 풀페이지 스크롤 내비게이션
   - **Slick** - 이미지 및 콘텐츠 슬라이더
