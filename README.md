@@ -2,6 +2,9 @@
 
 ![Zelda TOTK 메인 이미지](https://zeldatotkfullpage.web.app/images/totkbg/logo-intro-2x.webp)
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/48095fbe-61f6-4918-81dd-1183beddc6ea" />
+
+
 ## 📋 프로젝트 소개
 
 이 프로젝트는 닌텐도의 인기 게임 '젤다의 전설: 티어스 오브 더 킹덤'의 팬 웹사이트입니다. 풀페이지 스크롤링과 인터랙티브 요소를 활용하여 게임의 세계관, 캐릭터, 능력 시스템 등을 소개합니다.
